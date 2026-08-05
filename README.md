@@ -1,6 +1,6 @@
 <div align="center">
 
-# Halo, saya Ishak 👋
+# Halo, saya Ishak Basri 👋
 
 ### Full-Stack Developer · AI Engineer · Data Scientist · Researcher · Cyber Security Enthusiast
 
@@ -57,6 +57,44 @@ Pengembang full-stack dengan pengalaman membangun aplikasi web, sistem e-commerc
 | **Gemini AI Chatbot** | Chatbot berbasis Express.js dan Gemini 2.5 Flash API |
 | **Sistem Hotel Liman** | Sistem manajemen hotel berbasis Excel VBA dengan sinkronisasi real-time ke Google Sheets |
 | **Sistem Pesanan Penjualan** | Sistem pencatatan dan pengelolaan pesanan penjualan |
+
+---
+
+### 🎓 Sertifikasi
+
+Program **Maju Bareng AI** oleh Hacktiv8 Indonesia — kolaborasi dengan Google.org dan AI Opportunity Fund Asia-Pacific.
+
+<table>
+<tr>
+<td width="33%">
+
+<img src="assets/certificates/ai-for-work-career-readiness.png" width="100%">
+
+**AI for Work & Career Readiness with Google AI Products**
+📅 18–26 Mei 2026 · 10 jam
+🆔 05706/H8/CSR/MBA2/VI/2026
+
+</td>
+<td width="33%">
+
+<img src="assets/certificates/ai-productivity-api-integration.png" width="100%">
+
+**AI Productivity and AI API Integration for Developers**
+📅 20–25 Jun 2026 · 10 jam
+🆔 07345/H8/CSR/MBA2/VII/2026
+
+</td>
+<td width="33%">
+
+<img src="assets/certificates/llm-gemini-data-scientist.png" width="100%">
+
+**LLM-Based Tools & Gemini API Integration for Data Scientists**
+📅 4–9 Jul 2026 · 10 jam
+🆔 08211/H8/CSR/MBA2/VII/2026
+
+</td>
+</tr>
+</table>
 
 ---
 
