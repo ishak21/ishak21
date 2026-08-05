@@ -1,8 +1,15 @@
 <div align="center">
 
+<a href="https://wa.me/6281524407017">
+  <img src="assets/banner.png" alt="Ishak Basri — AI Engineer & Full-Stack Developer" width="100%">
+</a>
+
 # Halo, saya Ishak Basri 👋
 
 ### Full-Stack Developer · AI Engineer · Data Scientist · Researcher · Cyber Security Enthusiast
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281524407017)
+[![Email](https://img.shields.io/badge/Email-ishakadabi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishakadabi@gmail.com)
 
 </div>
 
@@ -17,6 +24,38 @@ Pengembang full-stack dengan pengalaman membangun aplikasi web, sistem e-commerc
 - 📊 Menjelajahi data science dan analisis data untuk pengambilan keputusan bisnis
 - 🛡️ Mendalami cyber security — dari fundamental hingga tooling praktis
 - 🏢 Membangun sistem operasional bisnis (manajemen hotel, e-commerce, sistem pesanan) dengan otomatisasi Excel VBA dan integrasi cloud
+
+---
+
+### 💼 Layanan
+
+Menerima proyek freelance & kontrak. Konsultasi awal gratis — silakan hubungi lewat [WhatsApp](https://wa.me/6281524407017) atau [email](mailto:ishakadabi@gmail.com).
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🌐 Web & Server**
+
+- Pembuatan website & aplikasi web
+- Migrasi & setup server (VPS, Nginx, PM2)
+- Perbaikan bug & maintenance berkala
+- Optimasi performa dan keamanan website
+
+</td>
+<td width="50%" valign="top">
+
+**⚡ Otomatisasi & Data**
+
+- Integrasi AI & pengembangan chatbot
+- Otomatisasi spreadsheet (Excel VBA, Google Apps Script)
+- Sinkronisasi Google Sheets ↔ Excel
+- Bot & otomatisasi Telegram
+- Instalasi & konfigurasi software perkantoran
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -114,7 +153,13 @@ Program **Maju Bareng AI** oleh Hacktiv8 Indonesia — kolaborasi dengan Google.
 
 ### 📫 Hubungi Saya
 
-<!-- Tambahkan tautan LinkedIn, email, atau kontak lain di sini -->
+<div align="center">
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0815--2440--7017-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/6281524407017)
+[![Email](https://img.shields.io/badge/Email-ishakadabi@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ishakadabi@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-ishak21-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ishak21)
+
+</div>
 
 <div align="center">
 
