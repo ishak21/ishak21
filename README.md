@@ -8,8 +8,9 @@
 
 ### Full-Stack Developer · AI Engineer · Data Scientist · Researcher · Cyber Security Enthusiast
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281524407017)
-[![Email](https://img.shields.io/badge/Email-ishakadabi@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishakadabi@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-E31E24?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281524407017)
+[![Email](https://img.shields.io/badge/Email-ishakadabi@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishakadabi@gmail.com)
+[![GitHub](https://img.shields.io/badge/Portofolio-github.com/ishak21-E31E24?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ishak21)
 
 </div>
 
@@ -141,11 +142,11 @@ Program **Maju Bareng AI** oleh Hacktiv8 Indonesia — kolaborasi dengan Google.
 
 <div align="center">
 
-![Ishak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishak21&show_icons=true&theme=tokyonight&hide_border=true)
+![Ishak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishak21&show_icons=true&theme=graywhite&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak21&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishak21&layout=compact&theme=graywhite&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishak21&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ishak21&theme=graywhite&hide_border=true)
 
 </div>
 
