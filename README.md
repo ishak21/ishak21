@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://wa.me/6281524407017">
-  <img src="assets/banner.png" alt="Ishak Basri — AI Engineer & Full-Stack Developer" width="100%">
+  <img src="assets/banner.png" alt="Ishak Basri — AI Engineer, Full-Stack Developer, Penetration Tester & Security Researcher" width="100%">
 </a>
 
 # Halo, saya Ishak Basri 👋
 
-### Full-Stack Developer · AI Engineer · Data Scientist · Researcher · Cyber Security Enthusiast
+### Full-Stack Developer · AI Engineer · Data Scientist · Penetration Tester · Security Researcher
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20Sekarang-E31E24?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6281524407017)
 [![Email](https://img.shields.io/badge/Email-ishakadabi@gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ishakadabi@gmail.com)
